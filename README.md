@@ -45,7 +45,7 @@ E-mail: eduardo@pladoo.com.br
 
 ## Publications
 
-- [BoxHouse Entertainment - Games DevLog]([link-to-publication](https://blog.boxhousegames.com.br/)) - Blog, Game Development
+- [BoxHouse Entertainment - Games DevLog]([(https://blog.boxhousegames.com.br/)]) - Blog, Game Development
 
 ## ASCII Art
 
