@@ -4,7 +4,7 @@ I'm Eduardo Soares, a passionate developer with a flair for creating innovative 
 
 ## About Me
 
-I am a software developer based in an undisclosed location, focusing on building robust applications. With a solid background in programming, I thrive on challenges and love to learn new technologies.
+I am a software developer based in Rio de Janeiro, focusing on building robust applications. With a solid background in programming, I thrive on challenges and love to learn new technologies.
 
 ## Skills & Technologies
 
