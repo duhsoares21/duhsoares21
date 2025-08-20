@@ -16,9 +16,9 @@ I am a software developer based in Rio de Janeiro, focusing on building robust a
 
 - [PladooDraw](https://github.com/duhsoares21/PladooDraw) - A drawing application built in Assembly. Language: Assembly.
 
-- [Back-End_Sistema-de-Gerenciamento-Financeiro-SISGEF](https://github.com/duhsoares21/Back-End_Sistema-de-Gerenciamento-Financeiro-SISGEF) - API developed in Node.js for financial management. ⭐️ 0 stars. Language: TypeScript.
+- [Back-End_Sistema-de-Gerenciamento-Financeiro-SISGEF](https://github.com/duhsoares21/Back-End_Sistema-de-Gerenciamento-Financeiro-SISGEF) - API developed in Node.js for financial management. Language: TypeScript.
 
-- [Front-End_Sistema-de-Gerenciamento-Financeiro-SISGEF](https://github.com/duhsoares21/Front-End_Sistema-de-Gerenciamento-Financeiro-SISGEF) - Front-end application developed in React and Tailwind CSS. ⭐️ 0 stars. Language: JavaScript.
+- [Front-End_Sistema-de-Gerenciamento-Financeiro-SISGEF](https://github.com/duhsoares21/Front-End_Sistema-de-Gerenciamento-Financeiro-SISGEF) - Front-end application developed in React and Tailwind CSS. Language: JavaScript.
 
 ## GitHub Stats
 
