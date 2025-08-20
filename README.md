@@ -1,6 +1,6 @@
 ## Hi there! 👋
 
-I'm Eduardo Soares, a passionate developer with a flair for creating innovative solutions. I enjoy working with various technologies to bring ideas to life and solve real-world problems.
+I'm Eduardo Soares, a passionate developer with a flair for creating innovative solutions. I enjoy working with various technologies to bring ideas to life.
 
 ## About Me
 
