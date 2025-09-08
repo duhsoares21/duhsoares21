@@ -12,9 +12,9 @@ I am a software developer based in Rio de Janeiro, focusing on building robust a
 
 ## Top Projects
 
-- [Packl](https://github.com/duhsoares21/Packl) - A C# project focused on packaging management. Language: C#.
+- [Packl](https://github.com/duhsoares21/Packl) - A Package Manager for Windows. Language: C#.
 
-- [PladooDraw](https://github.com/duhsoares21/PladooDraw) - A drawing application built in Assembly. Language: Assembly.
+- [PladooDraw](https://github.com/duhsoares21/PladooDraw) - A drawing application inspired by the classic paint mixed with modern features. Language: Assembly.
 
 - [Back-End_Sistema-de-Gerenciamento-Financeiro-SISGEF](https://github.com/duhsoares21/Back-End_Sistema-de-Gerenciamento-Financeiro-SISGEF) - API developed in Node.js for financial management. Language: TypeScript.
 
