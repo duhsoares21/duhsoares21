@@ -21,7 +21,7 @@ I am a software developer based in Rio de Janeiro, focusing on building robust a
 ## GitHub Stats
 
 🏆 **Public Repositories**: 29  
-![GitHub Stats](![GitHub Stats Card](https://ghstats.dev/api/card?username=duhsoares21&theme=radical))
+![GitHub Stats Card](https://ghstats.dev/api/card?username=duhsoares21&theme=radical)
 
 ## Recent Activity
 
