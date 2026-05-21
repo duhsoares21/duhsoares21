@@ -14,26 +14,20 @@ I am a software developer based in Rio de Janeiro, focusing on building robust a
 
 - [Packl](https://github.com/duhsoares21/Packl) - A Package Manager for Windows. Language: C#.
 
-- [PladooDraw](https://github.com/duhsoares21/PladooDraw) - A drawing application inspired by the classic paint mixed with modern features. Language: Assembly.
+- [PladooDraw GUI](https://github.com/duhsoares21/PladooDraw) - GUI for Pladoo Draw using Win32. A drawing application inspired by the classic paint mixed with modern features. Language: Assembly X86 (MASM).
 
-- [Back-End_Sistema-de-Gerenciamento-Financeiro-SISGEF](https://github.com/duhsoares21/Back-End_Sistema-de-Gerenciamento-Financeiro-SISGEF) - API developed in Node.js for financial management. Language: TypeScript.
-
-- [Front-End_Sistema-de-Gerenciamento-Financeiro-SISGEF](https://github.com/duhsoares21/Front-End_Sistema-de-Gerenciamento-Financeiro-SISGEF) - Front-end application developed in React and Tailwind CSS. Language: JavaScript.
+- [PladooDraw](https://github.com/duhsoares21/PladooDraw_Direct2D_LayerSystem) Back-end and API for Pladoo Draw made with DirectX 11. A drawing application inspired by the classic paint mixed with modern features. Language: C++.
 
 ## GitHub Stats
 
-🏆 **Public Repositories**: 24  
-👥 **Followers**: 8  
-👣 **Following**: 6  
+🏆 **Public Repositories**: 29  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=duhsoares21&show_icons=true&theme=radical)
 
 ## Recent Activity
 
-- Pushed to [Packl](https://github.com/duhsoares21/Packl) - Deleted AssemblyInfo.cs.
-- Updated vlc.json in [packably](https://github.com/duhsoares21/packably).
-- Created a new branch in [Packl](https://github.com/duhsoares21/Packl).
-- Pushed to [PladooDraw](https://github.com/duhsoares21/PladooDraw) - Minor updates.
-- Updated .gitignore in [Packl](https://github.com/duhsoares21/Packl).
+- Pushed to [Packl](https://github.com/duhsoares21/PladooDraw) - Changes on Timeline window
+- Pushed to [PladooDraw](https://github.com/duhsoares21/PladooDraw_Direct2D_LayerSystem) - Graphics API abstraction for easier implementation of multiple graphical APIs in the future.
+- Added tons of packages in [packably](https://github.com/duhsoares21/packably).
 
 ## Latest Blog Posts
 
